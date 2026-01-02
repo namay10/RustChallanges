@@ -1,0 +1,6 @@
+[submodule "riseinFinal"]
+	path = riseinFinal
+	url = https://github.com/namay10/riseinFinal
+[submodule "risein"]
+	path = risein
+	url = https://github.com/namay10/risein
